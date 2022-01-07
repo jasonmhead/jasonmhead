@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jasonmhead
 - 👀 I’m interested in Robotics, Blender 3D 
 - 🌱 I’m currently learning more about Blender
-- 💞️ I’m looking to collaborate on a Open Source Robotics Project: https://github.com/jasonmhead/open-tentacle
+- 💞️ Open Source Robotics Project: https://github.com/jasonmhead/open-tentacle
 
-Building physical prototypes to write a open source control system, as a basis for bigger projects.
+Building a physical robotic arm prototype to write a open source control system, as a basis for bigger projects.
 
 See also: 
  - https://headrobotics.co/
