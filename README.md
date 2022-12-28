@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonmhead
-- 👀 I’m interested in Robotics, Blender 3D 
-- 🌱 I’m working more on the Do Anything from Anywhere robotics project
+- 👀 I’m interested in Robotics, AI, Blender 3D 
+- 🌱 I’m exploring AI projects
 - 💞️ Open Source Robotics Project: https://github.com/jasonmhead/open-tentacle
 
 Building a physical robotic arm prototype to write a open source control system, as a basis for bigger projects.
