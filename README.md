@@ -13,4 +13,4 @@ See also:
 - 📫 How to reach me ...
 Send me an instagram or LinkedIn message and we can start our conversation.
  - https://www.instagram.com/head_robotics/
- - https://www.linkedin.com/in/jmhead01/
+ - https://www.linkedin.com/in/jasonhead3000/
