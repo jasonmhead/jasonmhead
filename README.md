@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasonmhead
-- 👀 I’m interested in Robotics, AI, Blender 3D 
+- 👀 I’m interested in Robotics, Generative AI, 3D Graphics and Environments 
 - 🌱 I’m exploring AI tech
 - 💞️ Open Source Robotics Project: https://github.com/jasonmhead/open-tentacle
 
