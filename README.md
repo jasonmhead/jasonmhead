@@ -11,7 +11,7 @@ AI
 - https://www.youtube.com/channel/UCNQcCcAtyTY-jo3VP74JmMQ
 
 Robotics
- - [https://www.youtube.com/channel/UCnYSctN0E4pjtlcl7GIx_KA](https://www.youtube.com/@headrobotics)
+ - [https://www.youtube.com/@headrobotics]
  - https://headrobotics.co/
  - https://www.instagram.com/head_robotics/
 
