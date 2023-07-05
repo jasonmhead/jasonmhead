@@ -11,9 +11,10 @@ AI
 - https://www.youtube.com/channel/UCNQcCcAtyTY-jo3VP74JmMQ
 
 Robotics
+ - [https://www.youtube.com/channel/UCnYSctN0E4pjtlcl7GIx_KA](https://www.youtube.com/@headrobotics)
  - https://headrobotics.co/
  - https://www.instagram.com/head_robotics/
- - [https://www.youtube.com/channel/UCnYSctN0E4pjtlcl7GIx_KA](https://www.youtube.com/@headrobotics)
+
 
 - 📫 How to reach me ...
 Send me an instagram or LinkedIn message and we can start our conversation.
