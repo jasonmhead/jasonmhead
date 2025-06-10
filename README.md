@@ -1,14 +1,6 @@
 - 👋 Hi, I’m @jasonmhead
-- 👀 I’m interested in Robotics, Generative AI, 3D Graphics and Environments 
-- 🌱 I’m exploring AI tech
-- 💞️ Open Source Robotics Project: https://github.com/jasonmhead/open-tentacle
-
-Building a physical robotic arm prototype to write a open source control system, as a basis for bigger projects.
-
-See also: 
-
-AI
-- https://www.youtube.com/channel/UCNQcCcAtyTY-jo3VP74JmMQ
+- 👀 I’m interested in Robotics, AI, 3D Graphics 
+- 🌱 I’m exploring Robotics and AI tech
 
 Robotics
  - https://www.youtube.com/@headrobotics
@@ -17,6 +9,6 @@ Robotics
 
 
 - 📫 How to reach me ...
-Send me an instagram or LinkedIn message and we can start our conversation.
- - https://www.instagram.com/head_robotics/
+Send me an x or LinkedIn message and we can start our conversation.
+ - https://x.com/jasonmhead
  - https://www.linkedin.com/in/jasonhead3000/
