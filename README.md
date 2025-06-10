@@ -9,8 +9,7 @@ Robotics
  - https://www.instagram.com/head_robotics/
 
 
-
-- 📫 How to reach me ...
+📫 How to reach me ...
 Send me an x or LinkedIn message and we can start our conversation.
  - https://x.com/jasonmhead
  - https://www.linkedin.com/in/jasonhead3000/
