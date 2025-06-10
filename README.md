@@ -2,10 +2,12 @@
 - 👀 I’m interested in Robotics, AI, 3D Graphics 
 - 🌱 I’m exploring Robotics and AI tech
 
+
 Robotics
  - https://www.youtube.com/@headrobotics
  - https://headrobotics.co/
  - https://www.instagram.com/head_robotics/
+
 
 
 - 📫 How to reach me ...
